@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "929767502429",
+    "firebase_url": "https://nakadasystem-ff614.firebaseio.com",
+    "project_id": "nakadasystem-ff614",
+    "storage_bucket": "nakadasystem-ff614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929767502429:android:b79d06053b1e22ba6153b4",
+        "android_client_info": {
+          "package_name": "com.ahmed.m.hassaan.nakadanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929767502429-fgtamtka60fqf8063614m611dne0jsr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmed.m.hassaan.nakadanews",
+            "certificate_hash": "f70450b687d33af9cb47eb0f7ff1e66e1d3382d0"
+          }
+        },
+        {
+          "client_id": "929767502429-il0efv1129940u75c4fmm23js9tpjpca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmed.m.hassaan.nakadanews",
+            "certificate_hash": "59333cd572517b163154e994880ebb6b29787065"
+          }
+        },
+        {
+          "client_id": "929767502429-hemrqm41qfltcbh2os8et1ejte266g6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB909FPr2SP91sd-LrPyM8l9Q9kQSbD_Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929767502429-0jkb3eufl6b94etq1n7e28odh44krlbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3202401010680621~7632901330"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929767502429:android:02018392a38d70a86153b4",
+        "android_client_info": {
+          "package_name": "com.engoo.clinic_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929767502429-vnj4g8k8f43vbciav4hfl9ueh1t4cp7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engoo.clinic_admin",
+            "certificate_hash": "f48787b3204e22a3f08e5bdb2d0fc9c33f58478e"
+          }
+        },
+        {
+          "client_id": "929767502429-hemrqm41qfltcbh2os8et1ejte266g6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB909FPr2SP91sd-LrPyM8l9Q9kQSbD_Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929767502429-0jkb3eufl6b94etq1n7e28odh44krlbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
